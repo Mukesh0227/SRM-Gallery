@@ -31,4 +31,38 @@
         "channelSubscribers": "11.6K",
         "description": "From SRMUNIVERSITY: the Footage.Download in 4k:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a><br><br>City Campus of SRM Institute of Science and Technology is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by SRMIST:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a>"
     }
+    ,
+    {
+        "id": 3,
+        "title": "SRM-CULT",
+        "thumbnail": "https://mukesh0227.github.io/SRM-Gallery/examples/video%20platform/videos/intra.jpg",
+        "url": "https://mukesh0227.github.io/SRM-Gallery/examples/video%20platform/videos/intra.mp4",
+        "vr": false,
+        "lenght": "8:58",
+        "views": "3,760,754",
+        "uploadDate": "Apr 29, 2011",
+        "likes": "22K",
+        "dislikes": "795",
+        "channel": "SRM VADAPALANI",
+        "channelAvatar": "https://mukesh0227.github.io/SRM-Gallery/examples/video%20platform/videos/srmyoutube.jpg",
+        "channelSubscribers": "11.6K",
+        "description": "From SRMUNIVERSITY: the Footage.Download in 4k:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a><br><br>City Campus of SRM Institute of Science and Technology is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by SRMIST:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a>"
+    },
+    {
+        "id": 4,
+        "title": "MECH-SRM",
+        "thumbnail": "https://mukesh0227.github.io/SRM-Gallery/examples/video%20platform/videos/mech.jpg",
+        "url": "https://mukesh0227.github.io/SRM-Gallery/examples/video%20platform/videos/mech.mp4",
+        "vr": true,
+        "vrRotate": 0,
+        "lenght": "0:24",
+        "views": "2,411,541",
+        "uploadDate": "May 2, 2017",
+        "likes": "5.1K",
+        "dislikes": "56",
+        "channel": "SRM VADAPALANI",
+        "channelAvatar": "https://mukesh0227.github.io/SRM-Gallery/examples/video%20platform/videos/srmyoutube.jpg",
+        "channelSubscribers": "11.6K",
+        "description": "From SRMUNIVERSITY: the Footage.Download in 4k:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a><br><br>City Campus of SRM Institute of Science and Technology is located in a sprawling campus of more than 5 acres and located at the heart of the metropolitan city of Chennai. It is well connected by road, rail and air. Apart from public transport, college buses are also available for transporting the staff and students from various places in the city.<br><br>Copyrights by SRMIST:<br><a href='https://www.srmistvdp.edu.in/'>https://www.srmistvdp.edu.in/</a>"
+    }
 ]
